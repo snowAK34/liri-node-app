@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a back-end only application that uses node to take arguments from the command line and outputs information based on the command and search given.
+This is a back-end only application that uses node to take arguments from the command line and outputs information based on the command and search given.  Included commands are listed below under usage.
 
 ## Setup
 
